@@ -1,1 +1,1 @@
-# Heart-Prediction-Machine-Learning
+# Heart_Disease_ML
